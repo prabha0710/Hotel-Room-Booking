@@ -1,0 +1,19 @@
+Book the rooms for the given guests.
+
+Per room 4 guests are allowed & one adult must be there.
+
+Maximum 16 people (adult & children) are allowed.
+
+A person can book 4 rooms maximum.
+
+Example:
+
+Input:
+
+Adult: 3 Children: 5
+
+Output:
+
+room 1: Adult 2 - Children 2
+
+room 2: Adult 1 - Children 3
